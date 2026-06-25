@@ -1,10 +1,15 @@
 # Challenge MercadoLibre VIS — Practicantes
 
 **Autor:** Oscar David Vergara Moreno
+
 **Fecha:** 24 de junio de 2026
+
 **Fuente de datos:** World Bank Development Indicators (actualización: 2023-03-01)
+
 **Período analizado:** 2000–2021
+
 **Países:** 217 (excluye 49 agregados regionales del World Bank)
+
 **Motor SQL:** DuckDB (in-process)
 
 
